@@ -1,4 +1,5 @@
-def using_include("Tyler", )
+def using_include(array, element)
+  using_include = ["Tyler", "Ty"]
 using_include.include? ("Tyler")
 end
 
