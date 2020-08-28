@@ -4,7 +4,6 @@ using_include.include? ("T")
 end
 
 def using_sort(array)
-using_sort = ["peo", "wow"]
 using_sort.sort 
 end
 
