@@ -1,6 +1,6 @@
-def using_include(array, element2)
+def using_include(array, element1)
   using_include = ["Tyler", "Ty"]
-using_include.include? (array)
+using_include.include? ("t")
 end
 
 def using_sort(array)
