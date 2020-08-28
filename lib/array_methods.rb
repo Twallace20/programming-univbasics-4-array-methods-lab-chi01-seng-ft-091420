@@ -1,6 +1,6 @@
 def using_include(array, element)
   using_include = ["Ty"]
-using_include.include? ("Ty")(3)
+using_include.include? ("Ty", "I")
 end
 
 def using_sort(array)
