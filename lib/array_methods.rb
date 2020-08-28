@@ -1,11 +1,11 @@
 def using_include(array, element)
   using_include = ["Ty"]
-using_include.include? ("Ty") ("I")
+using_include.include? ("Ty")
 end
 
 def using_sort(array)
   using_sort = ["wow"]
-using_sort.sort.sort
+using_sort.sort
 end
 
 def using_reverse(array)
